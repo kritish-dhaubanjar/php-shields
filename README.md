@@ -1,4 +1,4 @@
-### PHP SHIELDS
+## PHP SHIELDS
 
 Create and host your own simple service for badges in SVG, with ease to include in GitHub readmes. 
 
@@ -6,7 +6,7 @@ Inspired from **Shields.io**.
 
 **SVG** created from **Inkscape**.
 
-### WHY php-shields?
+## WHY php-shields?
 I tried to use shields.io, but for calculated numbers from apis that you don't own such as firebase, you can implement you own custom logic to display the numbers.
 
 #### Example
@@ -35,4 +35,4 @@ Here, I need the total count of the keys, but I'm unable to do so, and shields.i
 <img src="/shield.php"/>
 ```
 
-![php-shields](./shield.svg)
+![php-shields](https://blsonepal.com/shields.php)
