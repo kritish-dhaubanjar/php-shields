@@ -35,4 +35,4 @@ Here, I need the total count of the keys, but I'm unable to do so, and shields.i
 <img src="/shield.php"/>
 ```
 
-![php-shields](https://blsonepal.com/shields.php)
+![php-shields](https://blsonepal.com/shields.php?)
