@@ -9,7 +9,9 @@ curl_close($cURLConnection);
 
 $data  = json_decode($response, true);
 
-header("Content-Type: image/svg+xml")
+header("Content-Type: image/svg+xml");
+header('Cache-Control: no-cache');
+header('Expires: ' . gmdate('D, d M Y H:i:s \G\M\T', time() - 36000));
 ?>
 
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
