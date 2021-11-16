@@ -39,4 +39,16 @@ Here, I need the total count of the keys, but I'm unable to do so, and shields.i
 
 #### Read More
 https://docs.github.com/en/github/authenticating-to-github/about-anonymized-image-urls
+
 https://github.com/amio/embedded-google-fonts
+
+```
+<style type="text/css">
+  /* cyrillic-ext */
+  @font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: url(data:font/woff2;base64,d09GMgABAAAAAEEYABIAAAAAkAgAAECyAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGoFOG5JCHDYGYACCWAhSCYM8EQwKge1MgdV4C4NaABKBeAE2AiQDhzAEIAWDCgcgDIJEGx+BJezYSwEbBwDm3U474I7BxuEYxnhzJELYOHCGhlXB/39ObsBQsB1Qq9YHlVIpOEkhdAaNXiEIOpATi07k6uHdW4+K+fLSW29Xdinflf+DoeC0WNDznlm0TA+1p/hB9VfTpt4jLq/KR+YvZ3hfig7dqnNInzmnGpXWx1b1T2VDuCC8tzQPmTotiGLZazIG54iFpssIBcaU4TOwbeRPcvLy0LvGvzfJTLaAqIgVsQYGh6CA7W8VsO3x5KrYVuNrd4bn1+Z7//+rIOqI
+  ...
+</style>
